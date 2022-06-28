@@ -23,7 +23,7 @@ const createElements = () => {
   document.body.style.gap = '50px';
   document.body.style.justifyContent = 'center';
   document.body.style.alignItems = 'center';
-  document.body.style.height = '100vh';
+  document.body.style.height = '90vh';
 };
 createElements();
 
